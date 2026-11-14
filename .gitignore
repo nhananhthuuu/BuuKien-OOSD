@@ -1,0 +1,15 @@
+application-local.properties
+.env
+*.env
+target/
+build/
+.gradle/
+.idea/
+*.iml
+.vscode/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.DS_Store
+Thumbs.db
